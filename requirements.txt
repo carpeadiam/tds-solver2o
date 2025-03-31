@@ -1,7 +1,6 @@
 annotated-types
 anyio
 asgiref
-audioop-lts
 backoff
 bcrypt
 beautifulsoup4
